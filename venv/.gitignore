@@ -1,0 +1,4 @@
+include/
+Lib/site-packages/
+Scripts/
+pyvenv.cfg
